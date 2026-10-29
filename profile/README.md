@@ -1,8 +1,8 @@
 <div align="center">
   <!-- Substitua pelo link da logo da sua organização -->
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQFXpItlHwUi9g/company-logo_200_200/company-logo_200_200/0/1718633657194/brasil_componentes_automotivos_logo?e=1795046400&v=beta&t=BRzJN7VNEmsk47eEBQkP6ij7rFks_LhvlGByxQuble0" alt="Logo da Organização" width="120" />
+  <img src="https://brasilcompautomotivos.com.br/assets/img/LOGOBRASILCOMPONENTES.webp" alt="Logo da Organização" width="120" />
 
-  # [Nome da Organização]
+  # Brasil componentes Automotivos Information Technology
   **Engenharia de Software, Cloud Computing e Infraestrutura de Alta Performance**
 
   [![Website](https://img.shields.io/badge/Website-Visite_nosso_site-blue?style=for-the-badge&logo=google-chrome)](#)
@@ -64,5 +64,5 @@ Adotamos boas práticas de engenharia de software em todos os nossos repositóri
 
 ---
 <div align="center">
-  Feito com 💡 e ☕ pela equipe de Engenharia da <b>[Nome da Organização]</b>
+  Feito com 💡 e ☕ pela equipe de Engenharia da <b>Brasil componentes Automotivos Information Technology</b>
 </div>
